@@ -7,7 +7,8 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ## 🛠 Tech Stack
 
 **Languages:**  
-JavaScript, Java
+JavaScript, 
+Currently learning: Java
 
 **Frontend:**  
 React.js, HTML, CSS, Tailwind CSS
