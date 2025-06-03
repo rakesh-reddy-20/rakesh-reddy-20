@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rakesh Reddy
+# 👋 Hi, I'm R Rakesh Reddy
 
 I'm a **Full Stack Developer** passionate about building scalable web applications and backend systems. I enjoy working with the **MERN stack**, crafting intuitive user experiences, and architecting clean, maintainable code.
 
