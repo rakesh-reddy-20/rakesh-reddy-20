@@ -30,9 +30,13 @@ Git, GitHub, Postman, VS Code
 A hotel booking platform with room listings, availability check, OTP verification, and customer detail management.  
 Tech Used: MERN, JWT, Mongoose, Email APIs
 
+### 🧩 TaskFlow
+A hotel booking platform with room listings, availability check, OTP verification, and customer detail management.  
+Tech Used: MERN, JWT, Mongoose, Email APIs
+
 ### 📸 Social Media App *(Coming Soon)*  
-An Instagram-style platform with real-time updates, likes, comments, and user profiles.  
-Tech Used: MERN, Firebase (for media), Socket.io
+A full-featured task and project management system inspired by Jira. Includes dashboards, role-based access, task assignment, checklists, and email notifications.
+Tech Used: MERN, JWT, Cloudinary, Tailwind CSS
 
 ---
 
